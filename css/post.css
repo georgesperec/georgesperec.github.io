@@ -1,0 +1,55 @@
+.post_body {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: justify;
+}
+
+.post_body ul {
+  margin: .5rem 0 1rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 2px;
+  overflow: hidden;
+  position: relative;
+}
+
+.post_body li {
+  background-color: #fff;
+  line-height: 1.5em;
+  padding: 10px 20px;
+  margin: 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.post_body img {
+  width: 100%;
+}
+
+.post_intro {
+  font-size: 0.8em;
+  font-style: italic;
+
+
+  color: grey;
+}
+.post_refs {
+  font-size: 0.8em;
+  color: #113c;
+  
+}
+
+.image-caption {
+  font-size: smaller;
+  font-weight: 500;
+  color: #002e;
+  display: block;
+  text-align: center;
+}
+
+summary {
+  cursor: pointer;
+}
+details p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
