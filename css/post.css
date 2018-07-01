@@ -22,6 +22,9 @@
 
 .post_body img {
   width: 80%;
+  display: block;
+  margin: auto;
+
 }
 
 .post_intro {
