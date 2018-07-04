@@ -56,3 +56,30 @@ details p {
   margin-bottom: 0px;
 
 }
+
+.footnotes {
+  font-size: 0.65em;
+  color: #113c;
+}
+.footnotes a {
+  color: #113c;
+}
+.footnotes li {
+  border: none;
+  padding: 0px 4px;
+}
+.footnotes-list {
+  margin-top: 0px;
+  padding-left: 1.1em;
+}
+.footnotes-sep {
+  margin-top: 6em;
+  margin-bottom: 0px;
+}
+.footnotes p {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.footnotes li:first-child p {
+  margin-top: 14px;
+}
